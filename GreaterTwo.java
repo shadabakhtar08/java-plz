@@ -1,3 +1,5 @@
+// WAP to find the larger of two numbers
+
 public class GreaterTwo {
   public static void main(String[] args) {
     int a = 10, b = 20;
