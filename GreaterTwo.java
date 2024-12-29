@@ -1,4 +1,4 @@
-// WAP to find the larger of two numbers
+// WAP to find the larger of two numbers  
 
 public class GreaterTwo {
   public static void main(String[] args) {
