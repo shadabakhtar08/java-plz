@@ -16,5 +16,6 @@ public class UserInput {
         System.out.println("Age :"+age);
         System.out.println("Gender :"+gender);
         System.out.println("Phone no :"+phno);
+        s.close();
     }
 }
