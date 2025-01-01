@@ -38,6 +38,7 @@ public class Calculator {
 
             System.out.println("Do you want to continue (Press y for Yes and n for No)");
             yn = s.next();
+            s.close();
         } while (yn.equals("y") || yn.equals("Y"));
     }
 }
